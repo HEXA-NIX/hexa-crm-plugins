@@ -1,0 +1,3 @@
+[submodule "plugins/stripe"]
+	path = plugins/stripe
+	url = git@github.com:HEXA-NIX/hexa-crm-stripe.git
